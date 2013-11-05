@@ -4,7 +4,7 @@
   
 ## Description
 
-- First Marathi OS interface (Prototype) on top of Windows using Java
+- First Marathi OS interface (Prototype) on top of Windows using **Java**
 - developed during post graduation program, Msc-Bioinformatics (Semester-III) at Bioinformatics Center, University of Pune, Pune (India)
 
 ## Usage
