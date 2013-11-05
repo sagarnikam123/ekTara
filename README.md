@@ -2,22 +2,18 @@
 
 ### Marathi OS interface (Prototype)
    
----------------------------------------
 
 ## Description
----------------------------------------
 
 - First Marathi OS interface (Prototype) on top of Windows using Java
 - developed during post graduation program, Msc-Bioinformatics (Semester-III) at Bioinformatics Center, University of Pune, Pune (India)
 
 ## Usage
----------------------------------------
 
 - Run executable ekTar.jar
 - password - ektara
 
 ## Version
----------------------------------------
 
 0.1.0 - beta (retired)
 
@@ -27,7 +23,6 @@ Now the project is in retired state. Further, New ideas & applicable concepts ar
 
 
 ## Pre-requisite
----------------------------------------
 
 - Windows OS (7/XP)
 - JDK - 6/7
@@ -36,14 +31,12 @@ Now the project is in retired state. Further, New ideas & applicable concepts ar
 
 
 ## How To
----------------------------------------
 
   - Demo screencast (1.50 min) - [YouTube](http://youtu.be/m8Ujw2ju5ok "Ek Tara-Marathi OS interface-Prototype") &  [Vimeo](https://vimeo.com/78602458 "Ek Tara- Marathi OS interface- Prototype")
 
 
 
 ## Contribution
----------------------------------------
 
 - **Name of OS**
  - Ek Tara - The name is taken from an inspirational song sung by classmate  [**Madhura Mohole**](http://www.linkedin.com/pub/madhura-mohole/33/545/a05 "Linkedin") in practical lab, "Iktara" from movie "Wake up Sid !"
@@ -61,12 +54,10 @@ Now the project is in retired state. Further, New ideas & applicable concepts ar
   - in association with [Thinker's Academy](http://thinkersacademy.weebly.com/ "Homepage")
 
 ## License
----------------------------------------
 
 [Apache 2.0] (http://www.apache.org/licenses/LICENSE-2.0.html "Apache Licence 2.0") & [MIT](http://opensource.org/licenses/MIT)
 
 
 ## Like
----------------------------------------
 
 [![endorse](https://api.coderwall.com/sagarnikam123/endorsecount.png)](https://coderwall.com/sagarnikam123)
