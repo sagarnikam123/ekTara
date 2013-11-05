@@ -1,6 +1,6 @@
 # Ek Tara
 
-## Marathi OS interface (Prototype)
+### Marathi OS interface (Prototype)
   
 ## Description
 
