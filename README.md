@@ -1,0 +1,72 @@
+# Ek Tara
+
+### Marathi OS interface (Prototype)
+   
+---------------------------------------
+
+## Description
+---------------------------------------
+
+- First Marathi OS interface (Prototype) on top of Windows using Java
+- developed during post graduation program, Msc-Bioinformatics (Semester-III) at Bioinformatics Center, University of Pune, Pune (India)
+
+## Usage
+---------------------------------------
+
+- Run executable ekTar.jar
+- password - ektara
+
+## Version
+---------------------------------------
+
+0.1.0 - beta (retired)
+
+**NOTE:** due to presence of similar concepts from CDAC's [BOSS](http://bosslinux.in/ "(Bharat Operating System Solutions")  &  [JNode](http://www.jnode.org/ "Java New Operating System Design Effort"), stops nurturing.
+
+Now the project is in retired state. Further, New ideas & applicable concepts are always welcome.
+
+
+## Pre-requisite
+---------------------------------------
+
+- Windows OS (7/XP)
+- JDK - 6/7
+- M-Lekhani.TTF (marathi-lekhani font)
+  - from same github repository or [link 1](http://www.oocities.org/sathaye3767/fonts.htm "Download Marathi Lekhani font") ,  [link 2](http://www.angelfire.com/pop/top4/fonts/ "Download Marathi Lekhani font")
+
+
+## How To
+---------------------------------------
+
+  - Demo screencast (1.50 min) - [YouTube](http://youtu.be/m8Ujw2ju5ok "Ek Tara-Marathi OS interface-Prototype") &  [Vimeo](https://vimeo.com/78602458 "Ek Tara- Marathi OS interface- Prototype")
+
+
+
+## Contribution
+---------------------------------------
+
+- **Name of OS**
+ - Ek Tara - The name is taken from an inspirational song sung by classmate  [**Madhura Mohole**](http://www.linkedin.com/pub/madhura-mohole/33/545/a05 "Linkedin") in practical lab, "Iktara" from movie "Wake up Sid !"
+
+- **OS concept**
+  - The concept of making OS in pure **Java** was inspired by the lectures of [**Priyabrata Panigrahi**](http://www.linkedin.com/pub/priyabrata-panigrahi/18/219/316 "Linkedin") sir (PhD scholar at NCL), who taught us Java and inspirational story told by them about how we can use programming for solving real life problems & also for fun.
+  
+- **Resources**  
+  - Programming  done on windows desktop using Eclipse, at
+  
+      - [**Bioinformatics Center**](http://117.239.43.116/index.html "Homepage"), practical Lab No.1, last corner PC, near window
+      - University's Boys Hotel No.8, Room No. 128 on PC of [**Kishore Kale**](http://www.linkedin.com/pub/kishor-kale/58/836/b73 "Linkedin") (junior)
+
+- **other**
+  - in association with [Thinker's Academy](http://thinkersacademy.weebly.com/ "Homepage")
+
+## License
+---------------------------------------
+
+[Apache 2.0] (http://www.apache.org/licenses/LICENSE-2.0.html "Apache Licence 2.0") & [MIT](http://opensource.org/licenses/MIT)
+
+
+## Like
+---------------------------------------
+
+[![endorse](https://api.coderwall.com/sagarnikam123/endorsecount.png)](https://coderwall.com/sagarnikam123)
