@@ -1,8 +1,7 @@
 # Ek Tara
 
-### Marathi OS interface (Prototype)
-   
-
+## Marathi OS interface (Prototype)
+  
 ## Description
 
 - First Marathi OS interface (Prototype) on top of Windows using Java
