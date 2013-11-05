@@ -5,7 +5,7 @@
 ## Description
 
 - First Marathi OS interface (Prototype) on top of Windows using **Java**
-- developed during post graduation program, Msc-Bioinformatics (Semester-III) at Bioinformatics Center, University of Pune, Pune (India)
+- developed during post graduation program, **M.Sc.-Bioinformatics** (Semester-III) at Bioinformatics Center, University of Pune, Pune (India)
 
 ## Usage
 
@@ -14,7 +14,7 @@
 
 ## Version
 
-0.1.0 - beta (retired)
+0.1.0 - beta **(retired)**
 
 **NOTE:** due to presence of similar concepts from CDAC's [BOSS](http://bosslinux.in/ "(Bharat Operating System Solutions")  &  [JNode](http://www.jnode.org/ "Java New Operating System Design Effort"), stops nurturing.
 
@@ -38,16 +38,16 @@ Now the project is in retired state. Further, New ideas & applicable concepts ar
 ## Contribution
 
 - **Name of OS**
- - Ek Tara - The name is taken from an inspirational song sung by classmate  [**Madhura Mohole**](http://www.linkedin.com/pub/madhura-mohole/33/545/a05 "Linkedin") in practical lab, "Iktara" from movie "Wake up Sid !"
+ - Ek Tara - The name is taken from an inspirational song sung by classmate  [Madhura Mohole](http://www.linkedin.com/pub/madhura-mohole/33/545/a05 "Linkedin") in practical lab, "Iktara" from movie "Wake up Sid !"
 
 - **OS concept**
-  - The concept of making OS in pure **Java** was inspired by the lectures of [**Priyabrata Panigrahi**](http://www.linkedin.com/pub/priyabrata-panigrahi/18/219/316 "Linkedin") sir (PhD scholar at NCL), who taught us Java and inspirational story told by them about how we can use programming for solving real life problems & also for fun.
+  - The concept of making OS in pure **Java** was inspired by the lectures of [Priyabrata Panigrahi](http://www.linkedin.com/pub/priyabrata-panigrahi/18/219/316 "Linkedin") sir (PhD scholar at NCL), who taught us Java and inspirational story told by them about how we can use programming for solving real life problems & also for fun.
   
 - **Resources**  
   - Programming  done on windows desktop using Eclipse, at
   
-      - [**Bioinformatics Center**](http://117.239.43.116/index.html "Homepage"), practical Lab No.1, last corner PC, near window
-      - University's Boys Hotel No.8, Room No. 128 on PC of [**Kishore Kale**](http://www.linkedin.com/pub/kishor-kale/58/836/b73 "Linkedin") (junior)
+      - [Bioinformatics Center](http://117.239.43.116/index.html "Homepage"), practical Lab No.1, last corner PC, near window
+      - University's Boys Hotel No.8, Room No. 128 on PC of [Kishore Kale](http://www.linkedin.com/pub/kishor-kale/58/836/b73 "Linkedin") (junior)
 
 - **other**
   - in association with [Thinker's Academy](http://thinkersacademy.weebly.com/ "Homepage")
