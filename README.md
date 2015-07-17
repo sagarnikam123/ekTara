@@ -5,7 +5,7 @@
 ## Description
 
 - First Marathi OS interface (Prototype) on top of Windows using **Java**
-- developed during post graduation program, **M.Sc.-Bioinformatics** (Semester-III) at Bioinformatics Center, University of Pune, Pune (India)
+- developed during post graduation program, **M.Sc.-Bioinformatics** (Semester-III) at **Bioinformatics Center, University of Pune, Pune** (India)
 
 ## Usage
 
@@ -33,6 +33,7 @@ Now the project is in retired state. Further, New ideas & applicable concepts ar
 
   - Demo screencast (1.50 min) - [YouTube](http://youtu.be/m8Ujw2ju5ok "Ek Tara-Marathi OS interface-Prototype") &  [Vimeo](https://vimeo.com/78602458 "Ek Tara- Marathi OS interface- Prototype")
 
+	[![Ek Tara-Marathi OS interface-Prototype-Video](http://img.youtube.com/vi/m8Ujw2ju5ok/1.jpg)](http://www.youtube.com/watch?v=m8Ujw2ju5ok)
 
 
 ## Contribution
