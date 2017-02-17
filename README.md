@@ -1,4 +1,8 @@
-# Ek Tara
+Ek Tara
+=====
+
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=flat-square)](https://opensource.org/licenses/Apache-2.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-gg69b4.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
 ### Marathi OS interface (Prototype)
   
@@ -53,6 +57,4 @@ Now the project is in retired state. Further, New ideas & applicable concepts ar
 - **other**
   - in association with [Thinker's Academy](http://thinkersacademy.weebly.com/ "Homepage")
 
-## License
-
-[Apache 2.0] (http://www.apache.org/licenses/LICENSE-2.0.html "Apache Licence 2.0") & [MIT](http://opensource.org/licenses/MIT)
+---
